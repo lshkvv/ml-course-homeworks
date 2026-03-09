@@ -69,6 +69,7 @@ pandocfilters==1.5.1
 parso==0.8.6
 pexpect==4.9.0
 pillow==12.1.1
+pip-chill==1.0.3
 platformdirs==4.9.2
 prometheus_client==0.24.1
 prompt_toolkit==3.0.52
@@ -109,4 +110,5 @@ wcwidth==0.6.0
 webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
+wheel==0.46.3
 widgetsnbextension==4.0.15
